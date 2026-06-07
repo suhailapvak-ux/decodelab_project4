@@ -1,0 +1,13 @@
+# General Knowledge Quiz - Requirements
+# ==========================================
+# 
+# This project requires Python 3.6 or higher.
+# No external libraries or packages are required for the basic quiz.
+# This requirements.txt file is provided for project completeness and
+# for potential future enhancements.
+#
+# Installation:
+# pip install -r requirements.txt
+#
+# Current Setup: No external dependencies
+# ==========================================
